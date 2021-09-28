@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlinCristian97
 - 👀 I’m interested in Unity Game Development
-- 🌱 I’m currently learning 2D game-dev
+- 🌱 I’m currently learning 2D & 3D game-dev
 - 💞️ I’m looking to collaborate on any Unity game-dev project
 - 📫 How to reach me: 
 -   alin.cristian977@gmail.com
