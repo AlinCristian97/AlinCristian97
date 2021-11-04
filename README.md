@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlinCristian97
-- 👀 I’m interested in Unity Game Development
-- 🌱 I’m currently learning 2D & 3D game-dev
-- 💞️ I’m looking to collaborate on any Unity game-dev project
+- 👀 I’m interested in becoming a C# .Net master
+- 💞️ I’m working as a Junior Full Stack Developer
 - 📫 How to reach me: 
 -   alin.cristian977@gmail.com
 -   https://alincristian97.github.io
